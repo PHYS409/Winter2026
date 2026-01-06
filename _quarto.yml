@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PHYS 409 Winter 2025"
+  title: "PHYS 409 Winter 2026"
   navbar:
     background: primary #color of background is primary color in palette
     search: true
@@ -14,7 +14,7 @@ website:
       - href: https://phys409.github.io/
         text: "Course Description"
         target: _blank #makes it open in new page
-      - href: https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing
+      - href: https://docs.google.com/spreadsheets/d/1CqRi4OO0C813qEICXgECEvbFbTLgb9dMyQzDIpmoQxc/edit?usp=sharing
         text: "Schedule" 
         target: _blank #makes it open in new page
       - sidebar:syllabus

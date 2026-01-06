@@ -6,7 +6,7 @@ format:
 editor: source
 ---
 
-Welcome to PHYS 409, Winter 2025!
+Welcome to PHYS 409, Winter 2026!
 
 Not sure where to start? I've put together a guide.
 
@@ -18,7 +18,7 @@ If you have not yet, please make sure you get the textbook for this class, which
 
 ![](images/QMMcIntyre.jpg){width=200}
 
-There is only one edition of this book, but there is a cheaper printing from 2022 (it will still say "first edition" but it will be paperback).
+There is only one edition of this book, but there is a cheaper printing from 2022 (it will still say "first edition" but it will be paperback). The book is officially out of print as of this year, so if you have any trouble finding it, please let me know and I will get you access to the sections you need for this class.
 
 # Fill out the welcome form
 
@@ -30,7 +30,7 @@ I've tried to make the syllabus relatively short, sweet, and well-organized. It'
 
 # Keep an eye on the schedule
 
-The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1CqRi4OO0C813qEICXgECEvbFbTLgb9dMyQzDIpmoQxc/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
 
 # Still have questions?
 
