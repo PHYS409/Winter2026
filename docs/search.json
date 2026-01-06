@@ -65,7 +65,7 @@
     "href": "FAQ.html",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 339",
+    "text": "These details are posted in Lyceum, and are in the google calendar event sent to you by the registrar when you signed up for the class.",
     "crumbs": [
       "FAQ"
     ]
@@ -75,7 +75,7 @@
     "href": "FAQ.html#when-and-where-is-class",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 339",
+    "text": "These details are posted in Lyceum, and are in the google calendar event sent to you by the registrar when you signed up for the class.",
     "crumbs": [
       "FAQ"
     ]
@@ -94,8 +94,8 @@
     "objectID": "FAQ.html#officehours",
     "href": "FAQ.html#officehours",
     "title": "FAQ",
-    "section": "When are your office hours?",
-    "text": "When are your office hours?\nI will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).\nOffice hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).\nIf you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly link.",
+    "section": "When and where are your office hours?",
+    "text": "When and where are your office hours?\nI will have three hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).\nThe location for office hours will be posted in Lyceum, and will be a classroom. If you schedule a one-on-one meeting, it will be in my office. The location of my office is posted in Lyceum, along with the calendly link.",
     "crumbs": [
       "FAQ"
     ]
@@ -145,7 +145,7 @@
     "href": "FAQ.html#emails",
     "title": "FAQ",
     "section": "When will you reply to my email?",
-    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.\nIf you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.",
+    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email, and I frequently get over a hundred emails in a given day. If your email needs a reply, I will try to get back within 48 hours, but if it’s timely and I haven’t gotten back to you, please feel free to follow up or speak to me in person. Please make sure you’ve checked the syllabus, Lyceum, and your own emails for answers to questions before you email me to ask about a due date or request an extension.",
     "crumbs": [
       "FAQ"
     ]
@@ -165,7 +165,7 @@
     "href": "FAQ.html#ChatGPT",
     "title": "FAQ",
     "section": "Can I use ChatGPT in this class?",
-    "text": "Can I use ChatGPT in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you must acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving, which is the most important skill we are teaching in this class.",
+    "text": "Can I use ChatGPT in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you must acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving.",
     "crumbs": [
       "FAQ"
     ]
@@ -269,7 +269,7 @@
     "href": "FAQ.html#revisionpolicy",
     "title": "FAQ",
     "section": "Can I re-do something I did poorly on?",
-    "text": "Can I re-do something I did poorly on?\nYou can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don’t acheive all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).\nPCQs and WHWs cannot be revised. You also cannot revise anything you don’t turn in (receiving an N means you lose the chance to try again, so turn things in!).",
+    "text": "Can I re-do something I did poorly on?\nYou can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don’t achieve all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).\nPCQs and WHWs cannot be revised. You also cannot revise anything you don’t turn in (receiving an N means you lose the chance to try again, so turn things in!).",
     "crumbs": [
       "FAQ"
     ]
