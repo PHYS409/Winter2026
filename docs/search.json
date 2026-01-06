@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PHY 409 Winter 2025",
+    "title": "PHY 409 Winter 2026",
     "section": "",
-    "text": "Welcome to the Winter 2025 class of PHYS 409!\nIf this is your first time on the course website, I recommend you\nStart Here"
+    "text": "Welcome!\nIf this is your first time on the course website, I recommend you\nStart Here"
   },
   {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
-    "title": "PHY 409 Winter 2025",
+    "title": "PHY 409 Winter 2026",
     "section": "Course Description",
     "text": "Course Description\nYou can see the PHYS 409 course description here."
   },
   {
     "objectID": "index.html#course-objectives",
     "href": "index.html#course-objectives",
-    "title": "PHY 409 Winter 2025",
+    "title": "PHY 409 Winter 2026",
     "section": "Course Objectives",
     "text": "Course Objectives\nBy the end of this course, you will be able to\n\nWork comfortably with Dirac, matrix, and wave function notation and switch between notations\nExpress the bound states of a quantum harmonic oscillator in Dirac, matrix, and wave function notation\nWork with raising and lowering operators to understand the energy and time evolution of harmonic oscillator states\nUse addition rules for angular momentum to understand restricted transitions in quantized systems\nUse perturbation theory to find approximate solutions to more realistic problems in quantum mechanics\nApply perturbation theory to understand the Stark Effect and Hyperfine structure in the Hydrogen atom\nWork with states of entangled two-particle systems such as the Helium atom and the Hydrogen molecule"
   },
@@ -260,7 +260,7 @@
   {
     "objectID": "index.html#course-topics",
     "href": "index.html#course-topics",
-    "title": "PHY 409 Winter 2025",
+    "title": "PHY 409 Winter 2026",
     "section": "Course Topics",
     "text": "Course Topics\nThis course covers the following content:\n\nQuantum Harmonic Oscillators\nLadder operators\nPerturbation Theory - degenerate and non-degenerate\nStructure of the Hydrogen Atom under special circumstances\n\nHyperfine structure\nStark Effect\n\nAngular momentum addition rules and the Clebsch-Gordon Coefficients\nIdentical particles"
   },

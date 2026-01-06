@@ -1,5 +1,5 @@
 ---
-title: "PHY 409 Winter 2025"
+title: "PHY 409 Winter 2026"
 format: 
   html:
     link-external-newwindow: true
@@ -8,7 +8,7 @@ editor: source
 
 
 
-Welcome to the Winter 2025 class of PHYS 409!
+Welcome!
 
 If this is your first time on the course website, I recommend you
 
