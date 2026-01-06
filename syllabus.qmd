@@ -64,7 +64,7 @@ Overall Score = (Practice score + Unit Tests score + Final Project score + Excel
 
 The resulting overall score will correspond to a letter grade using the [Bates College 4-point GPA table](https://catalog.bates.edu/academics/academic-policies/grading-system/). You can then get up to three grade boosts, each of which rounds your grade up (e.g from a B to B+ or from an A- to A). The [grade boosts](#boosts) are described more below.
 
-If, for example, you achieved a 2 in Practice, a 4 in Group Work, a 3 in Quizzes, and got a total of 11 "Es", your base grade would be (2.0 + 4.0 + 3.0 + 2.0)/4 = 2.75, which would be a B-. With round-ups, your grade could go up to a B, B+, or A-.
+If, for example, you achieved a 2 in Practice, a 4 in Unit Tests, a 3 in Final Project, and got a total of 2 "Es", your base grade would be (2.0 + 4.0 + 3.0 + 2.0)/4 = 2.75, which would be a B-. With round-ups, your grade could go up to a B, B+, or A-.
 
 ### Grading scales
 ::: panel-tabset
