@@ -1,0 +1,37 @@
+---
+title: "Start Here"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+Welcome to PHYS 409, Winter 2025!
+
+Not sure where to start? I've put together a guide.
+
+This website contains the syllabus and an FAQ. If you are looking for handouts, in-class activities, specific assignments, or class notes, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
+
+# Get the textbook
+
+If you have not yet, please make sure you get the textbook for this class, which is "Quantum Mechanics: A Paradigms Approach, 1st edition" by David McIntyre (Cambridge University Press). If you took PHYS 308 with me, you already have the textbook. The library should have copies available, but you can also purchase it at the Bates bookstore.
+
+![](images/QMMcIntyre.jpg){width=200}
+
+There is only one edition of this book, but there is a cheaper printing from 2022 (it will still say "first edition" but it will be paperback).
+
+# Fill out the welcome form
+
+The first thing you should do for this class is fill out the [welcome form](https://forms.gle/8XqAVfMn8SzradMf9). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
+
+# Read the syllabus
+
+I've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
+
+# Keep an eye on the schedule
+
+The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+
+# Still have questions?
+
+If you've read the syllabus and still have questions, check out the [FAQ](FAQ.qmd). If you have a question that's not answered on that page, please feel free to email me! I've tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.

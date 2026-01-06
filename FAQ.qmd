@@ -1,0 +1,96 @@
+---
+title: "FAQ"
+format: 
+  html:
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+
+## When and where is class?
+
+-   When: Monday, Wednesday, and Friday, 2:40PM-4:00PM
+-   Where: Carnegie 339
+
+## Where do I get my textbook?
+
+The textbook for this class is "Quantum Mechanics: A Paradigms Approach, 1st edition" by David McIntyre (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
+
+To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
+
+![](images/QMMcIntyre.jpg){width=200}
+
+## When are your office hours? {#officehours}
+
+I will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
+
+Office hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).
+
+If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly link.
+
+## Should I go to office hours? {#goingtoofficehours}
+
+Office hours are my open hours, when I have specifically set aside time to talk to my students (that's you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I'm always happy to talk about other questions you might have.
+
+## Where do I find assignment instructions/course handouts/slides? {#findstuff}
+
+I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course page on Lyceum.
+
+If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
+
+## When is \_\_ due? {#duedates}
+
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+
+## Can I have an extension? {#extensionpolicy}
+
+In general, I am happy to work with you on deadlines, but it's important for you to communicate with me. You can request extensions using [this form](https://forms.gle/eFx7y7FoSdoukKGC6)
+
+Please note that the 48 hour extension is automatically granted, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
+
+For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#deadlines).
+
+## Can I re-do something I did poorly on? {#revisionpolicy}
+
+You can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don't acheive all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).
+
+PCQs and WHWs cannot be revised. You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
+
+## When will you reply to my email? {#emails}
+
+Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
+
+If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.
+
+## Do you grade on a curve? {#gradingcurve}
+
+Grades are not curved; your grade depends only on your own performance, supporting your fellow students will help every one of you.
+
+## Can I use ChatGPT in this class? {#ChatGPT}
+
+Large Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:
+
+1.  That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
+
+2.  That you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
+
+Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are teaching in this class.
+
+## What should I do if I get behind on my work? {#catchingup}
+
+First, reach out to me. It helps me to know that you are working on catching up. I am also happy to meet and help you set adjusted deadlines to get back on track.
+
+Second, if you are feeling really overwhelmed, consider scheduling an appointment with [a learning strategies tutor](https://www.bates.edu/student-academic-support-center/learning-strategies/) at the Student Academic Support Center. Their role is to support students seeking help with time management, organization, reading, test-taking, note-taking, and other academic skills. They can help you talk through what strategies work for you, what strategies don't, and how to manage your time and energy in a more sustainable way.
+
+## I have academic accommodations. What should I do? {#accommodations}
+
+I have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course (aside from extra time on tests, which can't be accommodated during class times, but you can take the tests through [Accessible Education and Student Support](https://www.bates.edu/accessible-education-student-support/requesting-services/how-to-register-for-accommodations/). However, I don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.
+
+## What if I need more support in this class? {#extrahelp}
+
+The Student Academic Support Center (SASC) has lots of tutors who can help you strengthen your math skills, problem solving skills, and study skills. Please reach out to them to see how they can help, in addition to coming to my office hours, where I am more than happy to walk through problems with you.

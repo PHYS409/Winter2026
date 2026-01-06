@@ -1,0 +1,60 @@
+---
+title: "Resources"
+format: 
+  html:
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+
+## Math and Physics Resources {#contentresources}
+
+[MIT OCW Quantum Course](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
+
+[Videos: Khan Academy's unit on linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+[Videos: Khan Academy's unit on differential equations](https://www.khanacademy.org/math/differential-equations)
+
+[Videos: Khan Academy's unit on multivariable calc](https://www.khanacademy.org/math/multivariable-calculus)
+
+[Videos: Khan Academy's unit on probabilities](https://www.khanacademy.org/math/statistics-probability/probability-library)
+
+
+## Study and Professional Skills Resources {#profdevresources}
+
+[Website: SASC General Study Strategies](https://www.bates.edu/student-academic-support-center/general-study-resources-and-strategies/)
+
+[Video: how to get the most out of studying](https://www.samford.edu/departments/academic-success-center/how-to-study)
+
+[Article: how to take notes](pdfs/HowToTakeNotes.pdf)
+
+[Article: the Urgent/Important Matrix for prioritization](https://www.mindtools.com/al1e0k5/eisenhowers-urgentimportant-principle)
+
+[Video: the Urgent/Important Matrix for prioritization](https://www.youtube.com/watch?v=jxiCV0vwVT8)
+
+## Mental Health Resources {#mentalhealthresources}
+
+### Self-care and stress resources
+
+[Self-care flow chart](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
+
+[Bates College well-being site](https://www.bates.edu/well-being/)
+
+### Crisis resources
+
+[Bates Counseling and Psychological Services](https://www.bates.edu/counseling-psychological-services/#scheduling)
+
+[Bates Title IX and Civil Rights Compliance Office:](https://www.bates.edu/here-to-help/) If you are experiencing harassment or discrimination, you can get help here.
+
+Please note that I am a responsible reporter, which means that I am required to share with the Title IX Coordinator "all knowledge of discrimination harassment, and/or retaliation witnessed or shared with" me.
+
+You can always choose what you reveal to me if you come to speak with me about something that's going on. I won't ever insist that you tell me details that you don't wish to share.
+
+The [confidential Resource Advisor](https://www.bates.edu/here-to-help/cra/) is not required to disclose, and is a great resource if you're facing something big and need some guidance.
+
+

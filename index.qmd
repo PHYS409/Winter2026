@@ -1,0 +1,60 @@
+---
+title: "PHY 409 Winter 2025"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+
+
+Welcome to the Winter 2025 class of PHYS 409!
+
+If this is your first time on the course website, I recommend you
+
+<a target="_blank" class="btn-garnet" href=starthere.qmd>Start Here</a>
+
+
+# Land Acknowledgment
+
+*We acknowledge that we are on Indigenous land: the territory of the Wabanaki people. We are grateful for the opportunity to live, learn, and grow on this sacred land, and extend our respect to citizens of this nation who live here today, and to their ancestors who have lived here for hundreds of generations. We recognize the repeated violations of sovereignty, territory, and water perpetrated by invaders who have impacted the original inhabitants of this land for 400 years. We know this acknowledgement is insufficient, and does not undo the harm that has been done and continues to be perpetrated now against Indigenous people and their land and water.*
+
+Bates College does not have an official land acknowledgment, but I felt it was important to include one as a person who lives and works on these stolen lands. A land acknowledgment is only a start, and should not be seen as absolving from responsibility. For more, see [this excellent article in The Bates Student](https://thebatesstudent.com/18429/news/does-bates-deserve-a-land-acknowledgement/)
+
+I choose to include a land acknowledgment in my syllabus because the field of Physics is not neutral--the people who are able to pursue this work are products of systemic structures that deny opportunities to many communities, and as a result, our work and our culture is limited by bias. To consider Physics or any other scientific subject to be "neutral" or unrelated to issues of social structures is misleading at best. This applies to all marginalized identities, not just Indigenous groups, but the history of sovereignty violations to Indigenous lands in the Americas is crucial to recognize as an institution of higher learning built on this land.
+
+If you want to know more about the status of Indigenous groups here in Maine, check out the work being done by [Wabanaki Reach](https://www.wabanakireach.org/).
+
+# About this course
+
+## Course Description
+
+You can see the PHYS 409 course description [here](https://phys409.github.io/).
+
+## Course Objectives
+
+By the end of this course, you will be able to
+
+-   Work comfortably with Dirac, matrix, and wave function notation and switch between notations
+-   Express the bound states of a quantum harmonic oscillator in Dirac, matrix, and wave function notation
+-   Work with raising and lowering operators to understand the energy and time evolution of harmonic oscillator states
+-   Use addition rules for angular momentum to understand restricted transitions in quantized systems
+-   Use perturbation theory to find approximate solutions to more realistic problems in quantum mechanics
+-   Apply perturbation theory to understand the Stark Effect and Hyperfine structure in the Hydrogen atom
+-   Work with states of entangled two-particle systems such as the Helium atom and the Hydrogen molecule
+
+
+## Course Topics
+
+This course covers the following content:
+
+-   Quantum Harmonic Oscillators
+-   Ladder operators
+-   Perturbation Theory - degenerate and non-degenerate
+-   Structure of the Hydrogen Atom under special circumstances
+  
+    -   Hyperfine structure
+    -   Stark Effect
+
+-   Angular momentum addition rules and the Clebsch-Gordon Coefficients
+-   Identical particles
