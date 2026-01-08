@@ -11,6 +11,13 @@ format:
     self-contained: true
 editor: source
 ---
+## Who is the professor?
+
+I'm Casey Berger and this is my second year at Bates College. At Bates, I've taught PHYS 211, PHYS 216, PHYS 301, PHYS 308, and PHYS 409. Before Bates, I was at Smith College in Physics and Statistical and Data Sciences. And long before that -- before I went to school for physics and computational science -- I studied philosophy, film production, and Spanish and worked in the film industry. It took me a long time to find my way to physics, but I wouldn't change any of it. The long and winding path taught me so much more about who I am, what I am capable of, and how many opportunities are available in the world. It also taught me that it's never too late to find a new passion or change your career direction.
+
+My research involves applying high performance computing and data science techniques to many-body quantum systems, which just means studying how medium-to-large numbers of quantum objects like electrons, neutrons, or atoms interact with each other and their environment. This sounds straightforward, but unfortunately the mathematics of quantum mechanics means these problems become impossible to solve by hand and extremely challenging to solve even with high powered computers when the system is still only a few particles. 
+
+Outside of physics, I am a person with lots of interests and hobbies. I love being outdoors in all seasons, but also love reading a book inside with a cup of tea. Ask me for book recommendations, recipes for interesting food, or great hikes in Maine!
 
 ## Classroom expectations {#classexpectations}
 
