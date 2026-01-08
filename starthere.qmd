@@ -20,13 +20,21 @@ If you have not yet, please make sure you get the textbook for this class, which
 
 There is only one edition of this book, but there is a cheaper printing from 2022 (it will still say "first edition" but it will be paperback). The book is officially out of print as of this year, so if you have any trouble finding it, please let me know and I will get you access to the sections you need for this class.
 
-# Fill out the welcome form
-
-The first thing you should do for this class is fill out the [welcome form](https://forms.gle/8XqAVfMn8SzradMf9). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
-
 # Read the syllabus
 
 I've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
+
+If you need help navigating to a specific topic in the syllabus, here's a rough outline:
+
+[Classroom Expectations](syllabus.qmd#classexpectations)
+
+[Deadline and Extension Policy](syllabus.qmd#extensions)
+
+[Technology and AI Policy](syllabus.qmd#techpolicy)
+
+[Grading Scheme](syllabus.qmd#grading)
+
+[Assignments](syllabus.qmd#assignments)
 
 # Keep an eye on the schedule
 

@@ -12,10 +12,6 @@ format:
 editor: source
 ---
 
-## When and where is class?
-
-These details are posted in Lyceum, and are in the google calendar event sent to you by the registrar when you signed up for the class.
-
 ## Where do I get my textbook?
 
 The textbook for this class is "Quantum Mechanics: A Paradigms Approach, 1st edition" by David McIntyre (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
@@ -24,7 +20,17 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ![](images/QMMcIntyre.jpg){width=200}
 
-## When and where are your office hours? {#officehours}
+## When and where is class?
+
+These details are posted in Lyceum, and are in the google calendar event sent to you by the registrar when you signed up for the class.
+
+## What should I call you?
+
+While my formal title would be "Doctor" or "Professor," I don't require you to use that title with me. I am more than comfortable being referred to as "Casey," so what you choose to call me will depend on your own level of comfort.
+
+I just ask that you never call me "Ms." or "Mrs." -- if you are going to use a formal title for me, please use the one I earned over five years of hard work in my doctorate. If you don't understand why this distinction matters to me, I highly recommend that you look into the [research](https://www.liebertpub.com/doi/abs/10.1089/jwh.2016.6044?journalCode=jwh) or [anecdotal evidence](https://med.stanford.edu/news/all-news/2006/07/transgender-experience-led-stanford-scientist-to-critique-gender-difference.html) on the disparities between how men and male-presenting people are addressed versus how women and female-presenting people are addressed, even when they have the same level of expertise.
+
+## When are your office hours? {#officehours}
 
 I will have three hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
 
@@ -32,31 +38,48 @@ The location for office hours will be posted in Lyceum, and will be a classroom.
 
 ## Should I go to office hours? {#goingtoofficehours}
 
-Office hours are my open hours, when I have specifically set aside time to talk to my students (that's you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I'm always happy to talk about other questions you might have.
+Office hours are my open hours, when I have specifically set aside time to talk to my students (that's you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I'm always happy to talk about other questions you might have. This is true of the one-on-one meetings as well.
+
+## What if I can't make it to your scheduled office hours?
+
+It's impossible to find a time in my schedule that works in everyone else's schedule, and sometimes it happens that I schedule office hours that don't work for a few people. But this doesn't mean you can't get help! If you can't make it to my scheduled office hours, you have two options:
+
+-   Schedule a one-on-one meeting with me in calendly (link in Lyceum)
+-   Go to SASC and work with a peer tutor
+
+My calendly sometimes books up, especially close to exam dates, so I recommend trying to schedule ahead of time. If you have an urgent question and there are no available calendly slots, please feel free to reach out to me via email.
+
+## Can the syllabus change?
+
+Yes, under certain conditions. The schedule may change in small ways -- this will happen if there is a disruption in the schedule (e.g. I am sick and have to cancel class, a snow day prevents us from meeting, some other emergency or surprise causes class to be cancelled). More often, what will happen is we will need a little more time on a topic, and I will push other topics a day or two. I build in a number of "catch-up days" into the schedule in order to make sure that when this happens, it doesn't require a total rewrite of the class.
+
+The syllabus may also change if we agree together as a class to cut or modify an assignment, or if I determine that the grading scheme has set the bar too high. I will never modify assignments or grading in a way that harms your grade, and if a change to either of those has you concerned, please come talk to me and we will determine together a reasonable alternative if that is needed.
+
+Finally, I reserve the right always to modify typos, etc. If you spot one of these, let me know, so I can fix it!
+
+Any changes to the syllabus will be documented in the [changelog](changelog.qmd)
 
 ## Where do I find assignment instructions/course handouts/slides? {#findstuff}
 
-I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course page on Lyceum.
+I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides will all be in the course page on Lyceum.
 
 If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1CqRi4OO0C813qEICXgECEvbFbTLgb9dMyQzDIpmoQxc/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/19-EPQYP7odazQjvrtAzE8UK13XS-JzKzdjV7Q6v7lBk/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
-In general, I am happy to work with you on deadlines, but it's important for you to communicate with me. You can request extensions using [this form](https://forms.gle/eFx7y7FoSdoukKGC6)
+In general, I am happy to work with you on deadlines, but it's important for you to communicate with me. You can request extensions using [this form](https://forms.gle/zwnNC37WGg4fV3ZN8). Note that some assignments cannot be extended, and you can learn more about that by reading more about the [specific assignments](syllabus.qmd#assignments). Requesting an extension on the form for something that can't be extended will not result in an extension. If you have a special case that you think qualifies as an exception (e.g. an extended medical absence, family emergency, etc), please email me to work out a new schedule for assignments.
 
-Please note that the 48 hour extension is automatically granted, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
+Please note that the 48 hour extension in the form is automatically granted for extendable assignments, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
 
 For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#deadlines).
 
 ## Can I re-do something I did poorly on? {#revisionpolicy}
 
-You can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don't achieve all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).
-
-PCQs and WHWs cannot be revised. You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
+Some assessments can be revised or re-tried. Please read up on each kind of assignment in the class to see which ones can be revised or not. Generally, if something is graded EMRN and you receive an R, you can retry or revise it, provided there is enough time left in the semester for a revision to occur (e.g. if you turn something in to me on the last day of the exam period, it cannot be revised due to time constraints). You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
 
 ## When will you reply to my email? {#emails}
 
@@ -64,17 +87,15 @@ Timely communication is really important, but in order to be an effective instru
 
 ## Do you grade on a curve? {#gradingcurve}
 
-Grades are not curved; your grade depends only on your own performance, supporting your fellow students will help every one of you.
+Grades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together on homeworks and study together for tests.
 
-## Can I use ChatGPT in this class? {#ChatGPT}
 
-Large Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:
+## Can I use ChatGPT or Google Gemini in this class? {#ChatGPT}
 
-1.  That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
+While I do not outright ban the use of LLMs, I do expect you to educate yourself on their impacts (social, intellectual, environmental, and economic), and to use them appropriately, cautiously, and with integrity. In my [AI policy](#llms) I include links to some articles that I hope you will see just as a starting point in learning about these issues. If you encounter other articles that you find informative, interesting, or useful about this topic, please pass them on to me! I would love to read them.
 
-2.  That you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
+Regarding the practical aspects of using LLMs in your work for this course, the first and most important point is that you may never pass off work done by an LLM as your own work if you wish to receive credit for the assignment. Please make sure you read my full [AI policy](#llms), including the articles I linked, and ask me if you have any questions about the policy or are not sure if your use of an LLM would fall under an acceptable use. 
 
-Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving.
 
 ## What should I do if I get behind on my work? {#catchingup}
 
@@ -85,6 +106,7 @@ Second, if you are feeling really overwhelmed, consider scheduling an appointmen
 ## I have academic accommodations. What should I do? {#accommodations}
 
 I have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course (aside from extra time on tests, which can't be accommodated during class times, but you can take the tests through [Accessible Education and Student Support](https://www.bates.edu/accessible-education-student-support/requesting-services/how-to-register-for-accommodations/). However, I don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.
+
 
 ## What if I need more support in this class? {#extrahelp}
 

@@ -1,0 +1,13 @@
+---
+title: "Changelog"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+| Date  | Change                  | Reason |
+|------------|-----------------------|---------------------------------------------------|
+| Jan 14, 2026 | N/A | First version of syllabus |
+
+: Syllabus changes {.striped .hover}
