@@ -29,6 +29,7 @@ website:
        - starthere.qmd
        - syllabus.qmd
        - FAQ.qmd
+       - changelog.qmd
        
     - id: resources
       title: "Resources"
