@@ -122,7 +122,7 @@ You can learn more about each bundle below:
 
 At the end of the term, you will earn a letter grade for this course. That letter grade will be determined following the Four-Square grading chart (below). Each square represents a grading bundle, and you can earn a score of 0-4 for each bundle. At the end of the term, I will calculate an average score for you using the following equation: 
 
-Overall Score = (Practice score + Unit Tests score + Final Project score + Excellence score) / 4
+Overall Score = (Practice score + Unit Tests score + Final Project score + Excellence score) / 16
 
 ![](images/PHYS409foursquare.jpg){width=1000}
 
